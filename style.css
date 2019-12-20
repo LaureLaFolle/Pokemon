@@ -20,7 +20,7 @@ h2 {
 	background-color: rgba(255, 215, 0, 0.7);
 }
 
-p, li, h3, div align="right"{
+p, li, h3, div {
   font-family: "Times, Times New Roman", serif;
   color: black;
   width: 900px;
